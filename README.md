@@ -1,3 +1,3 @@
 # mnist
 
-Handwriting recognition based on tensorflow.
+Simple handwriting recognition based on tensorflow.
